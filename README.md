@@ -1,2 +1,2 @@
 # JS_study
-My JavaScript projects
+My JavaScript projects for the "Eloguent JavaScript" book.
