@@ -1,3 +1,5 @@
+//This is just a simple program to check if a number if even
+
 function isEven(num){
   var myNum = Number(num);
   if (myNum < 0){
