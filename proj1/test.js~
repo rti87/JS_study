@@ -1,0 +1,6 @@
+var one = 5;
+var two = 2;
+
+var three = one * two;
+
+console.log(three);
