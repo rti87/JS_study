@@ -16,14 +16,14 @@ function every (array, func){
 // The following function works, but it doesn't satisfy one condition: it doesn't stop
 //  on the first element that returns true
 
-function some (array, func) {
-
-    function test (prev, curr) {
-        return (prev || func(curr));
-    }
-
-    return array.reduce (test, false);
-}
+//function some (array, func) {
+//
+//    function test (prev, curr) {
+//        return (prev || func(curr));
+//    }
+//
+//    return array.reduce (test, false);
+//}
 
 // This version should do it
 
