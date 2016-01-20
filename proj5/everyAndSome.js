@@ -25,7 +25,7 @@ function every (array, func){
 //    return array.reduce (test, false);
 //}
 
-// This version should do it
+// This version should do it. 
 
 function some (array, func) {
 
